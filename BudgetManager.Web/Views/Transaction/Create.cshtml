@@ -1,0 +1,11 @@
+﻿@model BudgetManager.Model.Transaction
+
+@{
+    ViewData["Title"] = "Create Transaction";
+}
+
+<h2>Create Transaction</h2>
+
+<form asp-action="Create" method="post">
+    <partial name="_CreateOrEdit" />
+</form>

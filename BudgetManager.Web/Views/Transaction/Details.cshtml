@@ -1,0 +1,101 @@
+﻿@using BudgetManager.Model
+@model TransactionDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+@if (Model != null)
+{
+    <ol class="breadcrumb">
+        <li><a asp-action="Index">Popis transakcija</a></li>
+        <li class="active"> > @Model.Transaction.TransactionName</li>
+    </ol>
+
+    <div>
+        <h4>Transaction</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                ID
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Transaction.TransactionId)
+            </dd>
+            <dt>
+                Name
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Transaction.TransactionName)
+            </dd>
+            <dt>
+                Date
+            </dt>
+            <dd>
+                @Model.FormattedTransactionDate
+            </dd>
+            <dt>
+                Amount
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Transaction.Amount)€
+            </dd>
+            <dt>
+                Description
+            </dt>
+            <dd>
+                @Model?.Transaction?.Description
+            </dd>
+            <dt>
+                Category
+            </dt>
+            <dd>
+                @Model?.Transaction?.Category?.CategoryName
+            </dd>
+            <dt>
+                Account
+            </dt>
+            <dd>
+                @Model?.Transaction?.Account?.AccountType?.AccountName
+            </dd>
+        </dl>
+
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model.Transaction.TransactionId" class="btn btn-primary">Uredi</a>
+            <button type="button" class="btn btn-danger" onclick="deleteTransaction()">Obriši</button>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        Nije odabran ispravni ID klijenta.
+    </div>
+}
+
+@section Scripts {
+    @Html.AntiForgeryToken()
+    @*Create AJAX function for deleting transaction*@
+    <script>
+        function deleteTransaction() {
+            var transactionId = @Model.Transaction.TransactionId;
+            var token = $('input[name="__RequestVerificationToken"]').val();
+
+            $.ajax({
+                type: "POST",
+                url: "/Transaction/Delete/" + transactionId,
+                headers: {
+                    "RequestVerificationToken": token
+                },
+                success: function (data) {
+                    window.location.href = "/Transaction/Index";
+                },
+                error: function (data) {
+                    alert("Greška prilikom brisanja transakcije.");
+                }
+            });
+        }
+    </script>
+}

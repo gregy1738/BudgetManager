@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.model\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|solutionrelative:budgetmanager.model\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.model\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|solutionrelative:budgetmanager.model\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\transaction\\_createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\transaction\\_createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\transaction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\transaction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\account\\_createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\account\\_createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|solutionrelative:budgetmanager.model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|solutionrelative:budgetmanager.model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|solutionrelative:budgetmanager.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|solutionrelative:budgetmanager.model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.web\\views\\report\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C7A19E-00E3-4C37-8D44-D8C71243CE42}|BudgetManager.Web\\BudgetManager.Web.csproj|solutionrelative:budgetmanager.web\\views\\report\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|c:\\users\\lovro\\desktop\\budgetmanager\\budgetmanager.model\\reportcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2E4A67-CB57-4FAA-B6C7-F55B874A9018}|BudgetManager.Model\\BudgetManager.Model.csproj|solutionrelative:budgetmanager.model\\reportcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Model\\AccountDTO.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\AccountDTO.cs",
+              "RelativeToolTip": "BudgetManager.Model\\AccountDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:02:53.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Controllers\\AccountApiController.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Controllers\\AccountApiController.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Controllers\\AccountApiController.cs",
+              "RelativeToolTip": "BudgetManager.Web\\Controllers\\AccountApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:11:45.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Transaction\\Details.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Transaction\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Transaction\\Details.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Transaction\\Details.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwCoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T12:17:44.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BudgetManager.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:16:10.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:45:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T19:28:58.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_CreateOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Transaction\\_CreateOrEdit.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Transaction\\_CreateOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Transaction\\_CreateOrEdit.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Transaction\\_CreateOrEdit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:54:12.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Program.cs",
+              "RelativeToolTip": "BudgetManager.Web\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:47:17.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\AccountType.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Model\\AccountType.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\AccountType.cs",
+              "RelativeToolTip": "BudgetManager.Model\\AccountType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:13:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "BudgetManager.Web\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAIwMMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:21:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "BudgetManager.Web\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:20:58.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_CreateOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Account\\_CreateOrEdit.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Account\\_CreateOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Account\\_CreateOrEdit.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Account\\_CreateOrEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:52:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:51:30.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Account\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:51:58.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Transaction\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Transaction\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Transaction\\Edit.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Transaction\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:54:09.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\User.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Model\\User.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\User.cs",
+              "RelativeToolTip": "BudgetManager.Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:25:25.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\Report.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Model\\Report.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\Report.cs",
+              "RelativeToolTip": "BudgetManager.Model\\Report.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:23:05.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\Category.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\Category.cs",
+              "RelativeToolTip": "BudgetManager.Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:54:16.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Report\\Create.cshtml",
+              "RelativeDocumentMoniker": "BudgetManager.Web\\Views\\Report\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Web\\Views\\Report\\Create.cshtml",
+              "RelativeToolTip": "BudgetManager.Web\\Views\\Report\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:04:45.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\ReportCategory.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Model\\ReportCategory.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\ReportCategory.cs",
+              "RelativeToolTip": "BudgetManager.Model\\ReportCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:13:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\Transaction.cs",
+              "RelativeDocumentMoniker": "BudgetManager.Model\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Lovro\\Desktop\\BudgetManager\\BudgetManager.Model\\Transaction.cs",
+              "RelativeToolTip": "BudgetManager.Model\\Transaction.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:25:25.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

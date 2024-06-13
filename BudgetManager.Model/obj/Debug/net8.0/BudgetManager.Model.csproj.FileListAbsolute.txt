@@ -1,0 +1,12 @@
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\bin\Debug\net8.0\BudgetManager.Model.deps.json
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\bin\Debug\net8.0\BudgetManager.Model.dll
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\bin\Debug\net8.0\BudgetManager.Model.pdb
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\BudgetManager.Model.csproj.AssemblyReference.cache
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\BudgetManager.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\BudgetManager.Model.AssemblyInfoInputs.cache
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\BudgetManager.Model.AssemblyInfo.cs
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\BudgetManager.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\BudgetManager.Model.dll
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\refint\BudgetManager.Model.dll
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\BudgetManager.Model.pdb
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.Model\obj\Debug\net8.0\ref\BudgetManager.Model.dll

@@ -1,0 +1,15 @@
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\bin\Debug\net8.0\BudgetManager.DAL.deps.json
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\bin\Debug\net8.0\BudgetManager.DAL.dll
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\bin\Debug\net8.0\BudgetManager.DAL.pdb
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\bin\Debug\net8.0\BudgetManager.Model.dll
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\bin\Debug\net8.0\BudgetManager.Model.pdb
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\BudgetManager.DAL.csproj.AssemblyReference.cache
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\BudgetManager.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\BudgetManager.DAL.AssemblyInfoInputs.cache
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\BudgetManager.DAL.AssemblyInfo.cs
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\BudgetManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\BudgetMa.57AC3EE1.Up2Date
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\BudgetManager.DAL.dll
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\refint\BudgetManager.DAL.dll
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\BudgetManager.DAL.pdb
+C:\Users\Lovro\Desktop\BudgetManager\BudgetManager.DAL\obj\Debug\net8.0\ref\BudgetManager.DAL.dll

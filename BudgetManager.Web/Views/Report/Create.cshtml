@@ -1,0 +1,26 @@
+﻿@model ReportViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Report</title>
+</head>
+<body>
+    <h1>Report</h1>
+    <p>Generated Date: @Model.GeneratedDate.ToString("dd-MM-yyyy")</p>
+    <p>User: @Model.UserName</p>
+    <p>Total Expenses: @Model.TotalExpenses</p>
+
+    <h2>Category Spendings</h2>
+    <ul>
+        @foreach (var categorySpending in Model.CategorySpendings)
+        {
+            <li>@categorySpending.CategoryName: @categorySpending.AmountSpent</li>
+        }
+    </ul>
+
+    <h2>Summary</h2>
+    <p>Category Most Spent: @Model.CategoryMostSpent (@Model.CategoryAmountMostSpent)</p>
+    <p>Category Least Spent: @Model.CategoryLeastSpent (@Model.CategoryAmountLeastSpent)</p>
+</body>
+</html>

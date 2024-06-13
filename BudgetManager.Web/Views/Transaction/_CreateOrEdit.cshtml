@@ -1,0 +1,40 @@
+﻿@model BudgetManager.Model.Transaction
+
+<div class="form-group">
+    <label asp-for="TransactionName" class="control-label"></label>
+    <input asp-for="TransactionName" class="form-control" />
+    <span asp-validation-for="TransactionName" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="TransactionDate" class="control-label"></label>
+    <input asp-for="TransactionDate" class="form-control" />
+    <span asp-validation-for="TransactionDate" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Amount" class="control-label"></label>
+    <input asp-for="Amount" class="form-control" />
+    <span asp-validation-for="Amount" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Description" class="control-label"></label>
+    <input asp-for="Description" class="form-control" />
+    <span asp-validation-for="Description" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="PaymentMethodId" class="control-label"></label>
+    <select asp-for="PaymentMethodId" class="form-control" asp-items="@(ViewBag.PossiblePaymentMethods)"></select>
+    <span asp-validation-for="PaymentMethodId" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="AccountId" class="control-label">Account</label>
+    <select asp-for="AccountId" class="form-control" asp-items="@(ViewBag.PossibleAccounts)"></select>
+    <span asp-validation-for="AccountId" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="CategoryId" class="control-label">Category</label>
+    <select asp-for="CategoryId" class="form-control" asp-items="@(ViewBag.PossibleCategories)"></select>
+    <span asp-validation-for="CategoryId" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <input type="submit" value="Submit" class="btn btn-primary" />
+</div>

@@ -1,0 +1,11 @@
+﻿@model BudgetManager.Model.Account
+
+@{
+    ViewData["Title"] = "Edit Account";
+}
+
+<h2>Edit Account</h2>
+
+<form asp-action="Edit" method="post">
+    <partial name="_CreateOrEdit" />
+</form>
